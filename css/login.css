@@ -9,10 +9,10 @@
     position: relative;
     width: 380px;
     height: 400px;
-    background: #f2f2f2;
+    background: #ffff;
     border-radius: 15px;
     border: 1px solid #d4d4d4;
-    box-shadow: 0 0 20px #d4d4d4;
+    box-shadow: 0 0 10px #d4d4d4;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -84,6 +84,6 @@
 .wrapper .form-box .btn:hover {
     font-weight: 400;
     color: var(--text-color);
-    background: #f2f2f2;
+    background: #cccccc4d;
     border: 1px solid var(--text-color);
 }
