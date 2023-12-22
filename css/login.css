@@ -1,6 +1,6 @@
 :root{
-    --text-color: #3f4f3c;
-    --color : #6d8d6f8d;
+    --text-color: #191a19;
+    --color : #3131318d;
 }
 
 .wrapper {
@@ -76,7 +76,7 @@
     margin-top: 10px;
     width: 100%;
     text-align: center;
-    background: var(--color);
+    background: var(--text-color);
     color: #f2f2f2;
     transition: .3s;
 }
