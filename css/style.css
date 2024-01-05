@@ -84,14 +84,15 @@ h1 span {
     display: block;
 }
 
-h2 {
+/* h2 {
     color: #555;
-}
+} */
 
-p {
+.description {
     color: #777;
     margin: 0;
     font-size: 16px;
+    text-align: justify;
 }
 
 ul {
